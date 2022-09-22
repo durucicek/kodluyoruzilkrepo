@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) eğitimleri için oluşturduğum ilk repo. İçerisinde bir README dosyası barındırıyor.
 
-![github](kodluyoruzilkrepo/markdown.png)
+![github](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
 
 ##Installation 
 Öncelikle projeyi clonelayın.
